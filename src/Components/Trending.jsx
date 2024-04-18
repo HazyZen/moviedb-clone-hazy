@@ -248,7 +248,7 @@ export default function Trending({ setId }) {
               sx={{ bgcolor: "grey.900" }}
             />
             <Skeleton
-              variant="overlay"
+              variant="rounded"
               width={150}
               height={220}
               sx={{ bgcolor: "grey.900" }}
